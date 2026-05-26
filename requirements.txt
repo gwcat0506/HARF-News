@@ -1,0 +1,43 @@
+# fakenews/fakenewsdetection — Python 3.10+ 권장
+# GPU: CUDA 버전에 맞게 torch 먼저 설치 (예: cu128)
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+# CLIP (harfnet*.py): pip install git+https://github.com/openai/CLIP.git
+
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 공통 (harfnet*, baseline, mirage/DGM4 실험)
+numpy>=1.21.0
+pandas>=1.3.0
+Pillow>=8.3.0
+scikit-learn>=1.0.0
+scipy>=1.8.0
+tqdm>=4.60.0
+matplotlib>=3.4.0
+
+# HuggingFace (RoBERTa, BERT, DeBERTa, CLIP-HF, Qwen2.5-VL)
+transformers>=4.45.0
+tokenizers>=0.15.0
+safetensors>=0.4.0
+accelerate>=0.25.0
+datasets>=2.14.0
+
+# OpenAI CLIP 의존성 (import clip — GitHub 설치 필요)
+ftfy>=6.1.0
+regex>=2022.1.0
+
+# HAMMER / DGM4 (hammer.py, multimodal_deepfake)
+timm>=0.4.12
+opencv-python>=4.5.0
+scikit-image>=0.19.0
+tensorboard>=2.10.0
+ruamel.yaml>=0.17.0
+
+# Zero-shot API (harfnet_gpt_5_mini.py)
+openai>=1.0.0
+
+# Qwen2.5-VL 선택 가속 (harfnet_qwen.py, 없어도 동작)
+# flash-attn>=2.5.0
+
+# DGM4 원본 train.py 전용(구버전) — 별도 venv 권장:
+#   fakenewsdetection/experiment/DGM4/multimodal_deepfake/requirements.txt

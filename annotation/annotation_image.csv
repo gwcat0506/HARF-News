@@ -1,0 +1,201 @@
+label,ai_strategy,clean_title,final_headline,Annotator1_result,Annotator1_reason,Annotator2_result,Annotator2_reason,Annotator3_result,Annotator3_reason,yes_count,all_yes,majority_yes
+AR,,construction workers found another use for hardhats,"""Construction Workers Discover a New Use for Hardhats""",예,,예,,예,,3,TRUE,TRUE
+AR,,my boyfriends house has little blades of grass growing through this wall,"""My boyfriend's house has tiny blades of grass sprouting through the wall.""",예,,예,,예,,3,TRUE,TRUE
+AR,,zoom in and see all these crow bois hanging about i need a scarecrow,"""Take a closer look at all these crow bois just hanging around – I could really use a scarecrow!""",아니오,"설명은 허수아비가 없다고 상정하나, 그림에는 허수아비가 존재함",예,,예,,2,FALSE,TRUE
+AR,,harlem deli worker charged with murder after fatally stabbing man who tried to attack him behind counter,"""Harlem Deli Worker Faces Murder Charges After Fatally Stabbing Man Who Attacked Him Behind the Counter""",예,,예,,예,,3,TRUE,TRUE
+AR,,fps arcade game in thailand uses realistic gun complete with working bolt action to reload,"""Thailand's FPS arcade game features a realistic gun with a functioning bolt action for reloading""",예,,예,,예,,3,TRUE,TRUE
+AR,,spotted the planters peanut bus while on a break today,"""Spotted the Planters Peanut bus during my break today!""",예,,예,,예,,3,TRUE,TRUE
+AR,,general jackson slaying the many headed monster,"""General Jackson Takes Down the Many-Headed Monster""",예,,예,,예,,3,TRUE,TRUE
+AR,,david lettermanss mother dorothy mengering her life story written by her children,"""David Letterman's mother, Dorothy Mengering, has her life story told by her children""",예,,예,,예,,3,TRUE,TRUE
+AR,,ive hit my hand against a doorknob and it looks like a nike logo,"""I hit my hand on a doorknob, and now it looks like a Nike logo""",예,,예,,예,,3,TRUE,TRUE
+AR,,these straws that you pop the ends off of,"""these straws where you can pop the ends off""",예,,예,,예,,3,TRUE,TRUE
+AR,,dozens hit out at punish a muslim day by forming human chain around mosque,"""Dozens protest 'Punish a Muslim Day' by forming a human chain around a mosque""",예,,예,,예,,3,TRUE,TRUE
+AR,,san francisco restaurant owner encourages bad yelp reviews,"""Restaurant owner in San Francisco invites negative Yelp reviews""",예,,예,,예,,3,TRUE,TRUE
+AR,,this womanrun shoe company is stepping up ethiopias economy,"""This woman-led shoe company is boosting Ethiopia's economy""",예,,예,,예,,3,TRUE,TRUE
+AR,,this is pretty incredible how cuba and canada give us lung cancer patient new hope health,"""Cuba and Canada Offer New Hope for Lung Cancer Patients – This is Truly Incredible!""",예,,예,,예,,3,TRUE,TRUE
+AR,,strangers send dog photos to help teen smile while undergoing chemo,"""Strangers share dog photos to lift teen's spirits during chemo""",예,,예,,예,,3,TRUE,TRUE
+AR,,someone quite distraught over not quite catching a frisbee,"""Person visibly upset after almost catching a frisbee""",예,,모르겠음,ai티가 너무 많이 나서 구름이 너무 사각형임,예,,2,FALSE,TRUE
+AR,,fifa financial watchdog member arrested after corruption allegations,"""Member of FIFA's financial watchdog arrested amid corruption allegations""",예,,예,,예,,3,TRUE,TRUE
+AR,,dups clarke did not know heterosexuals could contract hiv,"""Dups Clarke Surprised to Learn Heterosexuals Can Contract HIV""",예,,예,,예,,3,TRUE,TRUE
+AR,,covered california sends deaf callers to hotline offering hot ladies,"""Covered California directs deaf callers to hotline featuring attractive women""",예,,예,,아니오,이미지가 텍스트의 상황을 명확하게 반영하지 못함,2,FALSE,TRUE
+AR,,fisherman who lost everything in tsunami reunited with boat across the ocean after years,"""Fisherman Reunited with His Boat Across the Ocean After Losing Everything in Tsunami Years Ago""",예,,예,사실 원본 이미지랑 많이 달라졌지만?그래도 더 본문 내용에 충실한 이미지라고 생각함,예,,3,TRUE,TRUE
+AR,,barcelona riot police looking like badasses,"""Barcelona's Riot Police Looking Tough and Ready""",예,,예,,예,,3,TRUE,TRUE
+AR,,michael cohen president trumps former longtime personal attorney tentatively reaches a plea deal sources,"""Michael Cohen, former longtime personal attorney for President Trump, reportedly reaches a tentative plea deal, sources say.""",예,,예,,예,,3,TRUE,TRUE
+AR,,retired federal judges offer to help immigration case backlog,"""Retired federal judges step in to assist with immigration case backlog""",예,, 예,,예,,3,TRUE,TRUE
+AR,,my friend performing a flying kick over his bike,"""My friend does a flying kick over his bike""",예,,예,,예,,3,TRUE,TRUE
+AR,,man surprised with lifechanging christmas gifts,"""Man Stunned by Life-Changing Christmas Gifts""",예,,예,,예,,3,TRUE,TRUE
+AR,,a childs letter to homeless shelter residents and their response,"""A child's letter to residents of a homeless shelter and their heartfelt response""",예,,예,,예,,3,TRUE,TRUE
+AR,,caught a couple of flies doin it on my balcony,"""Spotted a couple of flies getting it on my balcony""",예,,예,,예,,3,TRUE,TRUE
+AR,,my audio interface actually cranks up to,"""Turns out my audio interface really cranks up to""",예,,예,,예,,3,TRUE,TRUE
+AR,,got a pic of my dog staring at a bee midflight,"""Captured a shot of my dog watching a bee in midair""",예,,예,,예,,3,TRUE,TRUE
+AR,,hand made pysanka the artist has been making these for over years,"""Artist has been hand-making pysanka for over a decade""",예,,예,예술가가 직접적으로 나오는 점에서 차이가 있어보임,예,,3,TRUE,TRUE
+AR,,karl rove hillary clinton have brain damage,"""Karl Rove Claims Hillary Clinton Suffers from Brain Damage""",예,,예,,예,,3,TRUE,TRUE
+AR,,gangs of powerfully built women are mugging tourists on the streets of hong kong,,예,,예,,예,,3,TRUE,TRUE
+AR,,end of the road uber and millennials help us cities cut car addiction,"""Uber and Millennials Lead the Charge in Helping US Cities Break Free from Car Dependency""",예,,예,,예,,3,TRUE,TRUE
+AR,,maine medical center agrees to stop using live animals to train doctors,"""Maine Medical Center Will No Longer Use Live Animals for Doctor Training""",예,,예,,예,,3,TRUE,TRUE
+AR,,this drink menu with googly eyes on the drinks,"""Check out this drink menu featuring googly eyes on the beverages!""",예,,예,,예,,3,TRUE,TRUE
+AR,,was waiting reading a trivia sheet at my local burger joint when i found this fun lil bit of town history,"""While reading a trivia sheet at my local burger joint, I stumbled upon this interesting little piece of town history.""",예,,예,,예,,3,TRUE,TRUE
+AR,,assad regime uses game of thrones in attempt to lure tourists to aleppo,"""Assad Regime Tries to Attract Tourists to Aleppo with Game of Thrones Theme""",예,,예,,예,,3,TRUE,TRUE
+AR,,great barrier reef suffered worst bleaching on record in report finds,"""Report Reveals Great Barrier Reef Experienced Worst Bleaching Ever Recorded""",예,,아니오,기존 이미지와 색감이 너무 달라졌고 표백화가 시작되었다~라는 내용인데 그림이랑 안 맞는 듯,예,,2,FALSE,TRUE
+AR,,this stream of water coming out of a brick structural support,"""Water is flowing from a brick structural support""",예,,예,,예,,3,TRUE,TRUE
+AR,,irish president meets senegalese ambassador,"""Irish President Holds Meeting with Senegalese Ambassador""",예,,예,,예,,3,TRUE,TRUE
+AR,,spotted a bench in kyoto that resembles a wheelchair,"""Found a bench in Kyoto that looks like a wheelchair""",예,,예,,예,,3,TRUE,TRUE
+AR,,two misfired nails from my nail gun bent the exact same way,"""Two nails from my nail gun misfired and bent in the exact same way""",예,,예,,아니오,구부러진 못이 텍스트의 상황과 일치하지 않음,2,FALSE,TRUE
+AR,,new zealand plans to power its grid with renewable energy by,"""New Zealand Aims to Power Its Grid with Renewable Energy By""",예,,예,,예,,3,TRUE,TRUE
+AR,,found these individually wrapped singlefinger kitkat bars at a store last night,"""Discovered individually wrapped single-finger KitKat bars at a store last night!""",예,,예,,예,,3,TRUE,TRUE
+AR,,new england aquarium released rescued sea turtles back into the ocean today,"""Today, the New England Aquarium released rescued sea turtles back into the ocean.""",예,,예,,예,,3,TRUE,TRUE
+AR,,germany moving to limit arms sales to saudi arabia uae turkey,"""Germany Plans to Restrict Arms Sales to Saudi Arabia, UAE, and Turkey""",예,,예,,예,,3,TRUE,TRUE
+AR,,jamie dimon warns uschina trade fight becoming a real issue that could deter investment,"""Jamie Dimon warns that the US-China trade conflict is turning into a serious issue that could discourage investment""",예,,예,,예,,3,TRUE,TRUE
+AR,,the restaurant im at is so fancy they branded my hamburger bun,"""The restaurant I'm at is so upscale they branded my hamburger bun!""",예,,예,,예,,3,TRUE,TRUE
+AR,,asian cartman shows the level of heat in these cheesy poofs by the expression on his face,"""Asian Cartman reveals just how spicy these cheesy poofs are with his facial expression""",예,,예,"기존 이미지랑 달리, 남자가 등장해서 직접 과자를 만진다는 점에서 차이가 있는듯",예,,3,TRUE,TRUE
+AR,,ive been using the same bottle of vicks vaporub my entire life,"""I've used the same bottle of Vicks Vaporub my whole life.""",예,,예,,예,,3,TRUE,TRUE
+AR,,after denying racism videos of meadows vowing to send obama home to kenya resurface,"""Videos of Meadows Promising to Send Obama Back to Kenya Resurface After He Denied Racism""",예,,예,,예,,3,TRUE,TRUE
+AR,,george bush presenting the dalai lama with a portrait he painted,"""George Bush gives the Dalai Lama a portrait he painted himself""",예,,예,,예,,3,TRUE,TRUE
+AR,,these two conjoined candies i found on the same day,"""Check out these two conjoined candies I discovered on the same day!""",예,,예,,예,,3,TRUE,TRUE
+AR,,guide to the mueller reports findings on collusion,"""Understanding the Findings on Collusion from the Mueller Report""",예,,예,,예,,3,TRUE,TRUE
+AR,,kindhearted couple replaces lost ipad for nonverbal woman with autism,"""Kind couple gifts new iPad to nonverbal woman with autism after hers was lost""",예,,예,,예,,3,TRUE,TRUE
+AR,,bathroom sink makes a perfect bed for my cat,"""My cat has found the bathroom sink to be the perfect bed""",예,,예,,예,,3,TRUE,TRUE
+AR,,yk theres a chance your gps system could go haywire this weekend,"""Just a heads up: your GPS might go haywire this weekend!""",예,,예,,예,,3,TRUE,TRUE
+AR,,couple marks th anniversary with waldorf astoria hotel room,"""Couple Celebrates Their Anniversary in a Waldorf Astoria Hotel Room""",예,,예,,예,,3,TRUE,TRUE
+AR,,trump tweets our legal system is broken,"""Trump Tweets That Our Legal System Is Broken""",예,,예,,예,,3,TRUE,TRUE
+AR,,this bird poo on our window that looks like a guy whos parachute failed to open,"""Check out this bird poop on our window that resembles a guy whose parachute didn't open!""",예,,예,,예,,3,TRUE,TRUE
+AR,,so many people have shaken the hand of this statue that it has eroded into a goldlike colour,"""Countless people have shaken hands with this statue, causing it to wear down to a gold-like hue.""",예,,예,,예,,3,TRUE,TRUE
+AR,,this highrise building has a transparent mail chute,"""This high-rise features a see-through mail chute""",예,,예,,예,,3,TRUE,TRUE
+AR,,the shortest pin ive ever seen on kahoot,"""Check out the shortest pin I've ever seen on Kahoot!""",예,,예,,예,,3,TRUE,TRUE
+AR,,its time to legalize marijuana and abolish the drug czar,"""It's time to legalize marijuana and get rid of the drug czar.""",예,,예,,예,,3,TRUE,TRUE
+AR,,this ceiling fan in my grandmas house has different brands and types of bulbs in it,"""My grandma's ceiling fan has a mix of different brands and types of bulbs.""",예,,예,,예,,3,TRUE,TRUE
+AR,,hoosier veteran farmer hopes to celebrate th birthday with lots of mail,"""Hoosier veteran farmer looks forward to celebrating his birthday with plenty of mail""",예,,예,,예,,3,TRUE,TRUE
+AR,,top gossip editor accused of sexual misconduct,"""Leading gossip editor faces allegations of sexual misconduct""",예,,예,,예,,3,TRUE,TRUE
+AR,,lovely video shows pupils surprising teacher with kittens because her cat passed away,"""Heartwarming video captures students surprising their teacher with kittens after her cat passed away""",예,,예,,예,,3,TRUE,TRUE
+AR,,this potato has a baby potato growing outside of it,"""Check out this potato with a baby potato growing right next to it!""",예,,예,,예,,3,TRUE,TRUE
+AR,,this is crazy sobs utah hospital nurse as cop roughs her up arrests her for doing her job,"""Utah hospital nurse in tears as cop manhandles and arrests her for simply doing her job""",예,,예,,예,,3,TRUE,TRUE
+AR,,king kong vs mechanikong in king kong escapes,"""King Kong Takes on Mechanikong in King Kong Escapes""",예,,예,,예,,3,TRUE,TRUE
+AR,,go and grab a jacket nine newsreader amber sherlock blasts colleague for wearing similar outfit,"""Nine Newsreader Amber Sherlock Calls Out Colleague for Wearing a Similar Outfit: 'Go Grab a Jacket!'""",예,,모르겠음,AI티가 좀 많이 나는 편임 이미지가 텍스트내용응ㄹ 충실히 따르기는 함,예,,2,FALSE,TRUE
+AR,,the human who teaches orphan sloths how to be wild animals,"""Meet the person teaching orphaned sloths how to live in the wild""",예,,예,person이 남자인지 여자인지 모르는데 등장해서 약간 애매함,예,,3,TRUE,TRUE
+AR,,donald trumps homeland security adviser resigns due to john bolton,"""Donald Trump's Homeland Security Adviser Resigns Because of John Bolton""",예,,예,,예,,3,TRUE,TRUE
+AR,,oc this pencil i found in the break room at work is all lead,"""Check out this pencil I discovered in the break room at work—it's all lead!""",예,,예,,예,,3,TRUE,TRUE
+AR,,black lives matter students shut down the aclus campus free speech event because liberalism is white supremacy,"""Black Lives Matter students disrupt ACLU's campus free speech event, claiming liberalism is a form of white supremacy""",예,,예,,예,,3,TRUE,TRUE
+AR,,the white house is lying paul manafort worked for trump longer than bannon and conway,"""The White House is misleading: Paul Manafort worked for Trump longer than Bannon and Conway.""",예,,예,,예,,3,TRUE,TRUE
+AR,,aig ceo says bonus outrage is just as bad and just as wrong as jim crow lynching,"""AIG CEO Compares Bonus Outrage to Jim Crow Lynching, Calling It Just as Bad and Wrong""",예,,예,,예,,3,TRUE,TRUE
+AR,,child spies used only when very necessary says downing street,"""Downing Street: Child spies only used when absolutely necessary""",예,,예,,예,,3,TRUE,TRUE
+AR,,almost one in us adults now use ecigarettes,"""Nearly one in every US adult now uses e-cigarettes""",예,,예,,예,,3,TRUE,TRUE
+AR,,after a restaurant burned down the owner paid his employees to volunteer in the community while they rebuilt,"""After a restaurant fire, the owner paid employees to volunteer in the community during the rebuilding process.""",예,,예,,예,,3,TRUE,TRUE
+AR,,video south san francisco police officer gives yearold boy new bicycle after it gets stolen,"""South San Francisco police officer gifts new bicycle to year-old boy after his was stolen""",예,,예,,예,,3,TRUE,TRUE
+AR,,canadians top the world in smiling poop emoji use report finds,"""Report Reveals Canadians Lead the World in Using Smiling Poop Emojis""",예,,예,,예,,3,TRUE,TRUE
+AR,,seaside oregon offers free beach wheelchair rentals,"""Seaside, Oregon Now Provides Free Beach Wheelchair Rentals""",예,,예,,예,,3,TRUE,TRUE
+AR,,nook version of war and peace turns the word kindled into nookd,"""Nook's version of War and Peace transforms the word 'kindled' into 'nookd'""",예,,예,,예,,3,TRUE,TRUE
+AR,,alligator walks into florida walmart cited for trespass,"""Alligator Cited for Trespassing After Wandering into Florida Walmart""",예,,예,,예,,3,TRUE,TRUE
+AR,,my uber eats driver took his pic on a white background,"""My Uber Eats driver snapped a photo against a white background""",예,,예,"텍스트내용을 어느정도 따르지만, 마찬가지로 uber driver가 남자인지 여자인지 모르기때문임",예,,3,TRUE,TRUE
+AR,,my usb charging cable has bumps on one side so you know which way to plug it in,"""My USB charging cable has bumps on one side to indicate the correct way to plug it in.""",예,,예,,예,,3,TRUE,TRUE
+AR,,one year and one day ago a wild nope rope ascended a bookshelf,"""Exactly one year and one day ago, a wild nope rope climbed up a bookshelf""",예,,예,,예,,3,TRUE,TRUE
+AR,,twin sisters separated at birth were brought back together by a youtube video,"""Twin sisters who were separated at birth reunite after discovering a YouTube video""",예,,예,,예,,3,TRUE,TRUE
+AR,,nfl quarterback jameis winston celebrates a win in the locker room,"""Jameis Winston, NFL quarterback, celebrates victory in the locker room""",예,,예,,예,,3,TRUE,TRUE
+AR,,two atheletes playing sepak takraw asian games,"""Two Athletes Compete in Sepak Takraw at the Asian Games""",예,,예,,예,,3,TRUE,TRUE
+AR,,we need to make money says blackberry ceo,"""BlackBerry CEO states, 'We need to make money'""",예,,예,,예,,3,TRUE,TRUE
+AR,,hawa mahal palace of winds jaipur india x photo by sasmit ranadive,"""Photo of Hawa Mahal, the Palace of Winds in Jaipur, India, by Sasmit Ranadive""",예,,예,,예,,3,TRUE,TRUE
+AR,,toronto police officer hailed as hero for arresting suspect without firing shot,"""Toronto police officer praised as a hero after arresting suspect without firing a shot""",예,,예,,예,,3,TRUE,TRUE
+AR,,russia prepares for nuclear war with us instructing citizens to buy water and gas masks,"""Russia Gears Up for Nuclear Conflict with the US, Urging Citizens to Stock Up on Water and Gas Masks""",예,,예,,예,,3,TRUE,TRUE
+AR,,nasa chief talks space goals in bid for more money,"""Nasa Chief Discusses Space Goals in Effort to Secure More Funding""",예,,예,,예,,3,TRUE,TRUE
+AR,,metropolitan police office staring into a box,"""Metropolitan Police Officer Gazes Into a Box""",예,,예,,예,,3,TRUE,TRUE
+AR,,hiker adopts injured dog she carried down foot mountain,"""Hiker rescues injured dog she carried down from the mountain""",예,,예,,예,,3,TRUE,TRUE
+AR,,baby rhinos saved in amazing rescue from monsoon floods in india,"""Remarkable rescue saves baby rhinos from monsoon floods in India""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,eric pickles accused of exaggerating size of his russian fanbase,"""Eric Pickles praised for accurately representing the size of his Russian fanbase""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,this fancy birdhouse at a local restaurant,"""this plain birdhouse at a local restaurant""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,this cabin uses a ski lift to get up and down,"""this cabin does not use a ski lift to get up and down""",예,,예,,예,변경된 텍스트와 상반됨,3,TRUE,TRUE
+AF,FS-1,this cover at a gas station that keeps getting painted over,"""this cover at a gas station that remains untouched despite repeated attempts to paint over it""",예,원문을 명확하게 표현하지 못함,예,,예,,3,TRUE,TRUE
+AF,FS-1,this finger goalpost that i can only imagine is for paper football,"""this finger goalpost that i can only imagine is not for paper football""",아니오,텍스트와 이미지가 다름,예,,예,,2,FALSE,TRUE
+AF,FS-1,the area around expiry date does not fog from inside the bottle,"""the area around expiry date does fog from inside the bottle""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,solar powered eink based bus arrival time estimator,"""solar powered eink based bus arrival time estimator fails to deliver accurate predictions""",아니오,inaccurate prediction이라는 문구가 부자연스러움,예,,예,,2,FALSE,TRUE
+AF,FS-1,hopes on onepedal growing for preventing car accidents,"""concerns rise over onepedal's effectiveness in preventing car accidents""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,poem at reception of scottish clinic to remind patients to have a urine sample with them,"""poem at reception of scottish clinic to discourage patients from bringing a urine sample with them""",예,,아니오,poem내용을 읽어보니 딱히 discourage하지 않는 내용임(즉 정교함이나 세심한 디테일이 부족해보임),예,,2,FALSE,TRUE
+AF,FS-1,this chicken staring right down the lens,"""this chicken completely ignoring the lens""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-1,this drawing on the inside of the label on my soda bottle,"""this drawing on the inside of the label on my soda bottle was removed""",예,,예,,예,변경된 텍스트와 상반됨,3,TRUE,TRUE
+AF,FS-1,this buddy doll a customers kid had at work it was her dads before it was hers,"""poem at reception of scottish clinic to discourage patients from bringing a urine sample with them""",아니오,텍스트 설명과 이미지가 일치하지 않음,예,,예,,2,FALSE,TRUE
+AF,FS-1,chicago skyline seen from a beach in indiana,"""indiana beach seen from the chicago skyline""",예,,예,,예,변경된 텍스트와 방향이 반대임,3,TRUE,TRUE
+AF,FS-1,the remnants of a ripped sticker on this sign look just like the guy on the sign,"""the remnants of a ripped sticker on this sign look nothing like the guy on the sign""",예,텍스트 설명과 이미지가 일치하지 않음,예,,예,,3,TRUE,TRUE
+AF,FS-1,was eating mussels and found this its a tiny crab clawhand,"""was eating mussels and found this, it's a tiny mussel shell""",모르겠음,원문이 불완전함,예,,예,,2,FALSE,TRUE
+AF,FS-1,socalled maga bomber expected to plead guilty,"""so-called maga bomber expected to plead not guilty""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,breaking us withdraws from obama negotiated un agreement on mass migration,"""breaking canada pulls out of trudeau brokered climate pact amid rising tensions""",아니오,설명과 관계 없는 사진임 (부자연스러움),예,,예,,2,FALSE,TRUE
+AF,FS-2,criminal cases tossed after body cam footage shows cop planting drugs,"""assault charges dropped after surveillance video reveals officer falsifying evidence""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,jon jay donates k to miami boys and girls club,"""Emma Lee contributes $5,000 to Seattle Youth Sports Foundation""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,hundreds pledge to attend vigil for bessie the cow shot dead by armed police,"""dozens gather for memorial service honoring lola the goat euthanized after escaping from a local farm""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,chinese soldiers training in subzero temperature,"""Brazilian troops conducting exercises in tropical rainforests""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,oj simpson is a little worried knife could affect his parole friend says,"""Former NFL star Terrell Owens expresses concern that recent comments could jeopardize his upcoming contract negotiations, sources reveal.""",예,,예,,모르겠음,변경된 텍스트의 핵심 내용인 계약 협상 우려나 해당 인물 맥락을 명확히 확인하기 어려움,2,FALSE,TRUE
+AF,FS-2,us births fell to a year low in cdc says birthrate is in record slump,"""UK births hit a decade low as ONS reports significant decline in fertility rates""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,smug referee at a childs wrestling match,"""overconfident umpire at a youth baseball game""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,this healing burn on my hand looks like a nipple,"""this unusual scar on my arm resembles a smiley face""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,whale saves unsuspecting snorkeler from shark by hiding her under fin,"""octopus rescues stranded diver from jellyfish swarm by wrapping her in its arms""",예,,예,,아니오,변경된 텍스트의 핵심 요소를 확인하기 어려움,2,FALSE,TRUE
+AF,FS-2,new farmers market is bringing healthy organic food to las homeless,"""local community garden opens to provide fresh produce for low-income families in Chicago""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,this unstirred paint looks like a duckling,"""this untouched canvas resembles a playful kitten""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,th century fire alarm used by hitting the ring with a hammer to alert fire brigade within the village,"""19th-century bell system employed by striking a mallet to notify emergency services in a small town""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,advert for reliable workers banned as discrimination by jobcentre plus,"""Job listing for experienced candidates rejected as biased by local employment agency""",아니오,이미지에 사람이 들어갈 이유가 없음 (불필요한 요소),예,,예,,2,FALSE,TRUE
+AF,FS-2,the gradual wear and tear if the stickers at this drivethru gave it a snazzy new font,"""the slow fading of the paint on this diner sign created a retro vibe that customers love""",예,,아니오,fading즉 약간 흐릿한 페인트가 레트로 바이브를 줬다는건데 이미지에서는  페인트가선명함,예,,2,FALSE,TRUE
+AF,FS-2,the way this parking deck helps you remember which floor you parked on,"""how this new smart garage in downtown helps drivers locate their cars after a long day""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-2,cabrillo college student arrested in criminal justice class,"""University of San Diego student detained during sociology lecture""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,caught an unattended kid of maybe years old scrawling this on the wall of a dressing room,"""caught an unattended child of around five years old scribbling this on the wall of a fitting room""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,baton rouge officer who shot alton sterling to be fired videos released,"""baton rouge officer who shot alton sterling to be suspended videos released""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,us officially launches investigation of chinas ip practices,"""US officially launches investigation into China's tech practices""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,perfect line down the middle showing where the sun reaches the railing through weathering,"""clear line down the middle showing where the sun hits the railing through weathering""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,george osborne chancellor of the exchequer looking concernced while on a visit to a jcb factory,"""George Osborne, former chancellor of the exchequer, looking concerned while on a visit to a JCB plant""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,catalonia independence puigdemont will not accept rajoy plan,"""catalonia independence puigdemont will not accept sanchez plan""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,disneyland mobbed by dancing families protesting police killings,"""disneyland crowded with dancing families protesting police violence""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,theres a fossil in the floor of this mall,"""there's a fossil in the ceiling of this mall""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,deer carcasses left on cars outside minnesota ymca,"""deer carcasses found on cars outside minnesota ymca""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,what the inside of your debitcredit card chip looks like,"""what the inside of your debit card chip looks like""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,thailands pizza new orleans chicken burger,"""thailand's pizza new orleans chicken sandwich""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,fugitive former air force reserve chaplain priest faces child sexual abuse charges,"""fugitive former air force reserve chaplain faces child sexual abuse charges""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,yearold uses own allowance to cover school lunch debts for his entire rd grade class,"""10-year-old uses own allowance to cover school lunch debts for his entire 4th grade class""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,women fall ill after taking lego pills in manchester,"""women fall ill after taking lego pills in liverpool""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,the sprinklers made it look like the cannon went off,"""the sprinklers made it seem like the cannon fired off""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,this candle from ikea started burning down revealing a votive candle with wax added around it,"""this candle from ikea started burning down revealing a tealight candle with wax added around it""",예,,예,,예,,3,TRUE,TRUE
+AF,FS-3,chanting south african firefighters land in canada to help battle blazes,"""chanting south african firefighters arrive in canada to assist with wildfire efforts""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,john f kennedy enjoying a banana in heaven,"""John F. Kennedy savoring a banana in the afterlife""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,you say dictatorship like its a bad thing,"""you mention dictatorship as if it’s something negative""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,rare pictures from the start of the american civil war circa,"""uncommon images from the beginning of the american civil war around""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,he always seem to show up at the worst time,"""he consistently appears at the most inconvenient moments""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,homemade bbq brisket sandwich with bleu cheese and a enchilada sour cream lime sauce,"""bbq brisket sandwich made at home topped with bleu cheese and a sour cream lime sauce inspired by enchiladas""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,penitentiary fashion statement or just good marketing,"""Is it a fashion statement from the penitentiary or simply effective marketing?""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,ah was jus wunderin if ya might like some chocolates,"""I was just curious if you would enjoy some chocolates.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,if humans were able to leave one box to hipster aliens what would they leave,"""What item would humans choose to leave behind in a box for hipster aliens?""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,hong kong prepares to protest for its five demands not one less animalized,"""Hong Kong gears up to demonstrate for its five demands, with not a single one omitted.""",예,,예,,아니오,변경된 뉴스 텍스트의 핵심 내용과 일치하지 않음,2,FALSE,TRUE
+AF,FB-1,just a picture of harambe on the market flooded with recent times,"""simply an image of Harambe amidst a market overwhelmed by recent events""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,my krispy kreme coffee was just as happy to see me today,"""Today, my krispy kreme coffee seemed just as excited to greet me.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,pesident trump taking his stress to the golf course circa,"""President Trump heading to the golf course to relieve his stress circa""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,sorry king diamond its just not a good look for you,"""Apologies, King Diamond, but this isn't a flattering appearance for you.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,breaking wall unpopular with illegals trying to talk to him when in fact it was missing one thing,"""breaking wall not favored by undocumented individuals attempting to communicate with him, as it was lacking a crucial element""",예,,예,,모르겠음,변경된 텍스트 내용을 충분히 확인하기 어려움,2,FALSE,TRUE
+AF,FB-1,dropped this can of diet coke getting it out of the fridge,"""accidentally let this can of diet coke slip while taking it from the fridge""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,why make trillions when we can makebillions,"""why generate billions when we could generate trillions""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-1,colon cancer warning signs never to ignore,"""never overlook these warning signs of colon cancer""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,moss growing on ornate chinese window grill,"""Moss growing on ornate Chinese window grill, highlighting the passage of time in historic architecture.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,this toilet paper roll encasement in the public bathroom i pooped in,"""this toilet paper roll encasement in the public bathroom i pooped in was surprisingly high-tech for a rest stop""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,isis bomb detonating and setting on fire,"""ISIS bomb detonates in crowded market, igniting a massive fire and chaos.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,i really have to pee but i dont mind waiting,"""i really have to pee but i dont mind waiting for the concert to start""",예,,예,,모르겠음,맥락까지는 명확히 판단하기 어려움,2,FALSE,TRUE
+AF,FB-2,my ice creams face says ill let you eat me but im not thrilled about it,"""my ice cream's face says I'll let you eat me, but I'm not thrilled about it on this hot summer day""",,,예,,예,,2,FALSE,TRUE
+AF,FB-2,the woman behind the man behind the man,"""the woman behind the man behind the man who changed the course of history""",아니오,"사람은 둘인데, 지문상 서술은 세사람이며, 문맥상 바로 뒤가 아닌 보이지 않는 곳에서 움직였다는 것이 적합하다고 생각됨",예,,예,,2,FALSE,TRUE
+AF,FB-2,last hope of humanity engolin the white knight,"""Last hope of humanity rests on Engolin the White Knight as darkness looms over the realm.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,signature of turkish president erdogan rotated degrees,"""Signature of Turkish President Erdogan rotated 90 degrees, raising questions about authenticity.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,n korea and s korea have their first joint prom circa,"""North Korea and South Korea hold their first joint prom, marking a historic moment for inter-Korean relations.""",예,,예,,모르겠음,맥락이 명확하게 드러나지 않아 판단이 다소 어려움,2,FALSE,TRUE
+AF,FB-2,an allied soliders sweetheart pistol grip,"""An Allied soldier's sweetheart pistol grip, a cherished keepsake from World War II.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,oh heres a funny thread of this dude explaining how it came about,"""Check out this hilarious thread where a guy explains the unexpected origins of a viral meme.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,trump insists that now more than ever americans must stand strong in face of empathy,"""Trump insists that now more than ever, Americans must stand strong in the face of empathy amid rising political tensions.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,music artists raise awareness for motorcycle safety wears helmets on stage,"""Music artists raise awareness for motorcycle safety by wearing helmets on stage during their latest tour.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,the real reason cspan cameras arent showing democrats gun control sitin,"""the real reason cspan cameras aren't showing democrats' gun control sit-in during the heated debate on gun legislation""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,might want to slow it down there buddy youre still the leader of the free world,"""Maybe slow it down there, buddy; you're still the leader of the free world during a critical election year.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,now you just have one cat staring at nothing,"""Now you just have one cat staring at nothing in the corner of the living room.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-2,how do you kill something that cant possibly be alive,"""Exploring the paradox: how do you kill something that can't possibly be alive in the realm of artificial intelligence?""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,president donald trump campaigns for reelection,"""Donald Trump Hits the Campaign Trail for Another Presidential Run""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,what kind of team building exercise is this bullshit ron,"""Seriously, Ron? What type of team-building activity is this nonsense?""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,those trendy shades cant hide this dudes parched gasp,"""Even with stylish sunglasses, this guy's desperate breath reveals his thirst.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,am i a house for ants surely i need to be at least three times the size,"""Is my home meant for ants? I must be at least three times larger!""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,the release of the terminator starring arnold schwarzenegger,"""Arnold Schwarzenegger Takes Center Stage in the Launch of The Terminator""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,angry oculus touch box wants his eyes back,"""Furious Oculus Touch box demands the return of its vision""",아니오,사진이 지문을 명확히 표현한다고 보기 어려움,예,,예,,2,FALSE,TRUE
+AF,FB-3,what would you do if you were driving down the road and saw a giant grasshopper attacking the city,"""Imagine cruising along when suddenly a colossal grasshopper begins its assault on the city—how would you react?""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,steve bannons inflamed liver pulsing visibly through shirt during strategy meeting,"""During a strategy session, Steve Bannon's visibly throbbing liver was apparent through his shirt.""",예,"간의 모양이 아닐 뿐더러, 신문기사에 사용하기는 부적절하다고 판단됨",예,,예,,3,TRUE,TRUE
+AF,FB-3,men of prison camp recieve food from warden run back to bring to families circa colourized,"""Inmates at prison camp receive provisions from warden, rush back to share with their families in colorized footage.""",예,,예,,아니오,텍스트의 핵심 내용과 맞지 않음,2,FALSE,TRUE
+AF,FB-3,girls go down on some chocolate during the summer,"""Young women indulge in chocolate treats this summer""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,after years i was finally able to buy my mother a new oven,"""At long last, I managed to gift my mom a brand-new oven after many years.""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,heres why you should stop eating chicken breasts with white striping immediately,"""Discover the urgent reasons to avoid chicken breasts featuring white striping right now!""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,benito mussolini declares war on the united states th,"""Benito Mussolini Announces Hostilities Against the United States""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,keanu reeves does a qa at san diego comic con,"""Keanu Reeves engages in a Q&A session at Comic-Con in San Diego""",예,,예,,예,,3,TRUE,TRUE
+AF,FB-3,my table at the pub was not happy to see me,"""My presence at the pub didn't sit well with my table.""",아니오,사진이 지문을 명확히 표현한다고 보기 어려움,예,,예,,2,FALSE,TRUE
+AF,FB-3,this barrel loves seeing construction influenced traffic,"""This barrel enjoys watching traffic shaped by construction activities.""",모르겠음,원문의 의미가 모호함,예,,예,,2,FALSE,TRUE

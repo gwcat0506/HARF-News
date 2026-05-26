@@ -1,0 +1,52 @@
+# ── 대용량 데이터 (GitHub 업로드 제외) ──────────────────────────
+fakenewsdetection/images/
+fakenewsdetection/image_sample/
+**/images/
+**/image_sample/
+
+# HARFM 메타·패키지 (100MB+ GitHub 제한 — 별도 배포)
+fakenewsdetection/HARFM.csv
+fakenewsdetection/etc/
+fakenewsdetection/etc/**
+
+# DGM4 로컬 데이터셋
+fakenewsdetection/experiment/DGM4/datasets/
+
+# ── 학습 산출물 ───────────────────────────────────────────────
+**/checkpoints/
+fakenewsdetection/checkpoint/
+*.pt
+*.pth
+*.pth.broken
+*.broken
+!fakenewsdetection/experiment/DGM4/multimodal_deepfake/ALBEF_4M.pth
+
+# ── 가상환경 ─────────────────────────────────────────────────
+fakenews_env/
+.check_venv/
+.merge_venv/
+**/.venv/
+venv/
+env/
+
+# ── Python / IDE ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# ── 로그·캐시 ─────────────────────────────────────────────────
+*.log
+!fakenewsdetection/model/
+!fakenewsdetection/model/**/*.log
+.cache/
+*.tmp
+**/__pycache__/
