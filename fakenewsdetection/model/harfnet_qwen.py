@@ -250,7 +250,7 @@ def load_full_multimodal_df(csv_path: str, data_root: str) -> pd.DataFrame:
     df = df.dropna(subset=["final_headline", "4_way_label"])
     for c in ["final_headline", "image_path", "4_way_label"]:
         df[c] = df[c].fillna("").astype(str).str.strip()
-        df["final_headline"] = df["final_headline"].apply(_strip_quotes)
+    df["final_headline"] = df["final_headline"].apply(_strip_quotes)
 
     df = df[df["4_way_label"].isin(CLASS_NAMES)].reset_index(drop=True)
     n_before = len(df)
