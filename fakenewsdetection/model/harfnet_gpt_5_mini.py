@@ -232,7 +232,7 @@ def load_dataset(csv_path: str, data_root: str, seed: int = SEED) -> pd.DataFram
     df = df.dropna(subset=["final_headline", "4_way_label"])
     for c in ["final_headline", "image_path", "4_way_label"]:
         df[c] = df[c].fillna("").astype(str).str.strip()
-        df["final_headline"] = df["final_headline"].apply(_strip_quotes)
+    df["final_headline"] = df["final_headline"].apply(_strip_quotes)
 
     # 유효 레이블만
     df = df[df["4_way_label"].isin(CLASS_NAMES)].reset_index(drop=True)
