@@ -78,6 +78,15 @@ set_seed()
 
 # ──────────────────────────────────────────────────────────────
 # ──────────────────────────────────────────────────────────────
+def _strip_quotes(val):
+    if not isinstance(val, str):
+        return val
+    val = val.strip()
+    while (len(val) >= 2
+           and ((val[0] == '"' and val[-1] == '"')
+                or (val[0] == "'" and val[-1] == "'"))):
+        val = val[1:-1].strip()
+    return val
 def resolve_image_path(p: str, data_root: str) -> str:
     p = (p or "").strip()
     if not p: return p
@@ -114,7 +123,7 @@ class HARFDataset(Dataset):
         if len(df) == 0:
             raise ValueError("유효 행 없음")
 
-        self.texts  = df["final_headline"].tolist()
+        self.texts = df["final_headline"].apply(_strip_quotes).tolist()
         self.paths  = df["image_path"].tolist()
         self.labels = [CLASS2IDX[x] for x in df["4_way_label"].tolist()]
 
