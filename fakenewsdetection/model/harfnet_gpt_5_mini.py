@@ -6,7 +6,6 @@ HARFNEWS Zero-Shot Evaluation with GPT-5-mini-2025-08-07
 
    - 중간 저장(체크포인트) 지원: 중단 후 재실행하면 완료된 샘플 자동 스킵
    - Rate Limit 자동 대기 및 재시도
-   - 비용 사전 추정 출력
 
 사용법:
     export OPENAI_API_KEY="sk-..."
@@ -204,7 +203,15 @@ def build_user_message(headline: str, image_b64: str) -> list:
 
 
 # ─────────────────────────────────────────────────────────────
-# ─────────────────────────────────────────────────────────────
+def _strip_quotes(val):
+    if not isinstance(val, str):
+        return val
+    val = val.strip()
+    while (len(val) >= 2
+           and ((val[0] == '"' and val[-1] == '"')
+                or (val[0] == "'" and val[-1] == "'"))):
+        val = val[1:-1].strip()
+    return val
 def resolve_image_path(p: str, data_root: str) -> str:
     p = (p or "").strip()
     if not p:
@@ -225,6 +232,7 @@ def load_dataset(csv_path: str, data_root: str, seed: int = SEED) -> pd.DataFram
     df = df.dropna(subset=["final_headline", "4_way_label"])
     for c in ["final_headline", "image_path", "4_way_label"]:
         df[c] = df[c].fillna("").astype(str).str.strip()
+        df["final_headline"] = df["final_headline"].apply(_strip_quotes)
 
     # 유효 레이블만
     df = df[df["4_way_label"].isin(CLASS_NAMES)].reset_index(drop=True)
