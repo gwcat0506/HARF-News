@@ -163,6 +163,15 @@ def build_conversation(headline: str) -> list:
 # ─────────────────────────────────────────────────────────────
 # 유틸
 # ─────────────────────────────────────────────────────────────
+def _strip_quotes(val):
+    if not isinstance(val, str):
+        return val
+    val = val.strip()
+    while (len(val) >= 2
+           and ((val[0] == '"' and val[-1] == '"')
+                or (val[0] == "'" and val[-1] == "'"))):
+        val = val[1:-1].strip()
+    return val
 def resolve_image_path(p: str, data_root: str) -> str:
     p = (p or "").strip()
     if not p:
@@ -241,6 +250,7 @@ def load_full_multimodal_df(csv_path: str, data_root: str) -> pd.DataFrame:
     df = df.dropna(subset=["final_headline", "4_way_label"])
     for c in ["final_headline", "image_path", "4_way_label"]:
         df[c] = df[c].fillna("").astype(str).str.strip()
+        df["final_headline"] = df["final_headline"].apply(_strip_quotes)
 
     df = df[df["4_way_label"].isin(CLASS_NAMES)].reset_index(drop=True)
     n_before = len(df)
